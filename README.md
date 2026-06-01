@@ -18,3 +18,4 @@ This project classifies messages as **Spam** or **Not Spam** using the Naive Bay
 ```bash
 pip install -r requirements.txt
 python spam_detector.py
+pull shark badge test
